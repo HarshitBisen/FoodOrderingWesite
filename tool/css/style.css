@@ -1,0 +1,32 @@
+ul li{
+	list-style: none;
+	float: left;
+	width: 25%;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+ul li a:hover{
+	color: red;
+	text-decoration: none;
+}
+#banner{
+	background: url('../image/food.jpg');
+	height: 620px;
+}
+#d1{
+	width: 100%;
+	text-align: center;
+	background: blue;
+	display: none;
+}
+#d2{
+	width: 100%;
+	text-align: center;
+	background: blue;
+	display: none;
+}
